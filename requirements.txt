@@ -1,6 +1,5 @@
 Flask==2.3.3
 requests==2.31.0
 pycryptodome==3.19.0
-colorama==0.4.6
 urllib3==1.26.18
-psutil==5.9.6
+gunicorn==21.2.0
